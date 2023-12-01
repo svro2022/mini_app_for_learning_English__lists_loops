@@ -1,4 +1,4 @@
-# Mini app for learning English (continuation) <br>
+# Mini app for learning English (loops_lists) <br>
 
 ---
 Дорабатываем нашу программу, которая по очереди задает вопросы <br> 
